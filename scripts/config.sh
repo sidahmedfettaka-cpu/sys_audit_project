@@ -2,7 +2,7 @@
 # =============================================================================
 # FILE        : config.sh
 # DESCRIPTION : Global configuration variables for the audit system
-# AUTHOR      : NSCS Students - Group Project
+# AUTHOR      : Fettaka Sidahmed
 # DATE        : 2026
 # =============================================================================
 
