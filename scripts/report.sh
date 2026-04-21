@@ -2,7 +2,7 @@
 # =============================================================================
 # FILE        : report.sh
 # DESCRIPTION : Generates formatted audit reports (short & full) in multiple formats
-# AUTHOR      : NSCS Students - Group Project
+# AUTHOR      : Fettaka Sidahmed
 # DATE        : 2026
 # =============================================================================
 # Generates: .txt, .html, and .json reports
