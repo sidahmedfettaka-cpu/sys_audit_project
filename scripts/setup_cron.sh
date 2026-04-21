@@ -2,7 +2,7 @@
 # =============================================================================
 # FILE        : setup_cron.sh
 # DESCRIPTION : Configures automatic scheduled execution via cron jobs
-# AUTHOR      : NSCS Students - Group Project
+# AUTHOR      : Fettaka Sidahmed
 # DATE        : 2026
 # USAGE       : sudo bash setup_cron.sh [--install | --remove | --show]
 # =============================================================================
