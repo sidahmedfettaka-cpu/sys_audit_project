@@ -2,7 +2,7 @@
 # =============================================================================
 # FILE        : email_send.sh
 # DESCRIPTION : Sends audit reports via email using msmtp or mail command
-# AUTHOR      : NSCS Students - Group Project
+# AUTHOR      : Fettaka Sidahmed
 # DATE        : 2026
 # =============================================================================
 # SETUP REQUIRED:
