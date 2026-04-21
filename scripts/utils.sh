@@ -2,7 +2,7 @@
 # =============================================================================
 # FILE        : utils.sh
 # DESCRIPTION : Shared utility/helper functions used across all modules
-# AUTHOR      : NSCS Students - Group Project
+# AUTHOR      : Fettaka Sidahmed
 # DATE        : 2026
 # =============================================================================
 
