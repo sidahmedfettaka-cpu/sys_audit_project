@@ -2,7 +2,7 @@
 # =============================================================================
 # FILE        : hardware_audit.sh
 # DESCRIPTION : Collects detailed hardware information from the system
-# AUTHOR      : NSCS Students - Group Project
+# AUTHOR      : Fettaka sidahmed
 # DATE        : 2026
 # =============================================================================
 # This module gathers: CPU, GPU, RAM, Disk, Network, Motherboard, USB info
