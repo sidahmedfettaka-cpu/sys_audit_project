@@ -2,7 +2,7 @@
 # =============================================================================
 # FILE        : remote_monitor.sh
 # DESCRIPTION : Remote machine monitoring via SSH
-# AUTHOR      : NSCS Students - Group Project
+# AUTHOR      : Fettaka Sidahmed
 # DATE        : 2026
 # =============================================================================
 # CYBERSECURITY NOTE:
