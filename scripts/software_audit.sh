@@ -2,7 +2,7 @@
 # =============================================================================
 # FILE        : software_audit.sh
 # DESCRIPTION : Collects OS and software information from the system
-# AUTHOR      : NSCS Students - Group Project
+# AUTHOR      : Fettaka Sidahmed
 # DATE        : 2026
 # =============================================================================
 # This module gathers: OS details, kernel, packages, users, services,
