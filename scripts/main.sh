@@ -2,7 +2,7 @@
 # =============================================================================
 # FILE        : main.sh
 # DESCRIPTION : Main entry point for the Linux Audit & Monitoring System
-# AUTHOR      : NSCS Students - Group Project
+# AUTHOR      : Fettaka Sidahmed
 # DATE        : 2026
 # USAGE       : sudo bash main.sh [--short | --full | --menu]
 # =============================================================================
